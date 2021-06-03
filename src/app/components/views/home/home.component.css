@@ -1,0 +1,33 @@
+.home{
+
+    width: 95%;
+    margin: 1rem auto;
+
+}
+
+.crud{
+    width: 60%;
+    margin: 2rem auto;
+}
+
+@media(max-width: 450px){
+
+    .home{
+        width: 70%;
+    }
+    .crud{
+        width: 70%;
+    }
+}
+
+@media(max-width: 770px){
+
+    .home{
+        width: 80%;
+    }
+    .crud{
+        width: 80%;
+    }
+}
+
+
